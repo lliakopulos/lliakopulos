@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lliakopulos
-- 👀 I’m interested in data coding
+- 👀 I’m interested in data analytics & systems
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to create my coding portfolio
-- 📫 How to reach me lliakopulos@Luc.edu
+- 💞️ I’m looking to use my github as a coding portfolio
+- 📫 How to reach me lliakopulos@luc.edu
 
 <!---
 lliakopulos/lliakopulos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
