@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lliakopulos
 - 👀 I’m interested in data analytics & systems
 - 🌱 MS in Information Systems & Analytics
-- 💞️ I’m looking to use my github as a coding portfolio
+- 💞️ I’m looking to use my github as a coding portfolio, mostly projects in my MS program.
 - 📫 How to reach me lliakopulos@luc.edu
 
 <!---
