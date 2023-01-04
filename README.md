@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lliakopulos
 - 👀 I’m interested in data analytics & systems
-- 🌱 MS in Information Systems & Analytics
+- 🌱 Masters in Information Systems & Analytics
 - CEO and Corporate Director of @houseofclio (www.houseofclio.com)
 - 💞️ I’m looking to use my github as a coding portfolio, mostly projects in my MS program.
 - 📫 How to reach me lliakopulos@luc.edu
